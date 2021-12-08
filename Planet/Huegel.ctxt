@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Huegel
-comment0.text=\r\n\ Ein\ H\u00FCgel\ hat\ eine\ Steigung\ von\ 31\ bis\ 60.\r\n
-comment1.params=
-comment1.target=Huegel()
-comment2.params=
-comment2.target=int\ getSteigung()
-numComments=3
